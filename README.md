@@ -1,6 +1,6 @@
 # WeatherApp
 
-For now you have to open it via Visual Studio Code. 
+For now you have to open it via Visual Studio Code and open with Live Server. 
 
 App uses https://www.weatherbit.io/ API
 
