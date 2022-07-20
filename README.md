@@ -5,6 +5,10 @@ For now you have to open it via Visual Studio Code and open with Live Server.
 App uses https://www.weatherbit.io/ API
 
 I'm getting city name, temperature, and temperature description from API and setting it on the app. 
+
+--20.07.2022--
+Added icons mapping
+--19.07.2022--
 Icon is currently hardcoded, will do the icons mapping tomorow. 
 
 Currently it looks like this:
